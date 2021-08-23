@@ -1,8 +1,9 @@
 {
   "name": "use-copy-to-clipboard-react",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Simple copy to clipboard.",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "bulid": "tsc"
   },
