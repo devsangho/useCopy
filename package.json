@@ -1,5 +1,5 @@
 {
-  "name": "usecopy",
+  "name": "use-copy-to-clipboard-react",
   "version": "1.0.0",
   "description": "Simple copy to clipboard.",
   "main": "index.js",
